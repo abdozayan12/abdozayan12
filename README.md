@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p> <img src="./profileREADME.png" alt="abdozayan"> </p>
-<h1 align="center">Hello World 👋🏽 ..!</h1>
+<!-- <h1 align="center">Hello World 👋🏽 ..!</h1> -->
 
 # 💫 About Me:
 
