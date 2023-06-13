@@ -23,7 +23,7 @@ Full-Stack Developer from Egypt who is passionate about learning new things ever
 
 ## 🌐 Socials:
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdo-zayan-39b073128/)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdo-zayan-39b073128/)
 
 # 💻 Tech Stack:
 
