@@ -33,17 +33,21 @@ Full-Stack Developer from Egypt who is passionate about learning new things ever
  <!-- ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6) -->
 
 
-<!--# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mofuhidy&theme=slateorange&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mofuhidy&theme=slateorange&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mofuhidy&theme=slateorange&hide_border=true&include_all_commits=false&count_private=false&layout=compact) -->
+# 📊 GitHub Stats:
+<div align="center">
+<p> <a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdozayan12&theme=default&hide_border=false&include_all_commits=false&count_private=false"/> </a>
+<p><a href=""><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdozayan12&theme=default&hide_border=false"/> </a></p>
+
+<p><a href=""><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdozayan12&theme=react&line_height=40&hide=css""/> </a></p>
+
+<img align="center" src="https://visitcount.itsvg.in/api?id=abdozayan12&icon=0&color=0"/> </a>
+</div> 
 
 ### ✍️ Random Dev Quote
 
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+
 ---
-
-[![](https://visitcount.itsvg.in/api?id=Mofuhidy&icon=0&color=12)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
