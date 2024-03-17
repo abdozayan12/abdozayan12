@@ -20,8 +20,8 @@ I'm a Full-Stack Developer from Egypt, currently enrolled in the Microverse codi
 
 # 📫 How to Reach Me:
 
-- Email: [your-email@example.com](mailto:abdozayan12@gmail.com)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/abdozayan/)
+- Email: [Mail](mailto:abdozayan12@gmail.com)
+- LinkedIn: [Abdelhakim](https://www.linkedin.com/in/abdozayan/)
 
 # 📚 My Projects:
 
