@@ -5,13 +5,54 @@
 
 # 💫 About Me:
 
-Full-Stack Developer from Egypt who is passionate about learning new things every day. I enjoy drinking tea watching anime, movies, and series. I am currently enrolled in Microverse, a coding bootcamp that is helping me to become a better developer.<br><br>I am always looking for new challenges and opportunities to learn and grow. I am confident that my passion for learning will make me a valuable asset to any team.<br><br>If you are looking for a talented and motivated Full-Stack developer, please do not hesitate to contact me.
+I'm a Full-Stack Developer from Egypt, currently enrolled in the Microverse coding bootcamp. I'm passionate about learning new things and always looking for new challenges. In my free time, I enjoy drinking tea and watching anime, movies, and series.
 
-## 🌐 Socials:
+<!-- # 🏢 Work Experience:
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdozayan/)
+- **Software Developer, Company Name** - *Month Year to Month Year*
+    - Brief description of your responsibilities and achievements in this role.
+    - Technologies used: JavaScript, React, etc.
 
-# 💻 Tech Stack:
+- **Junior Developer, Company Name** - *Month Year to Month Year*
+    - Brief description of your responsibilities and achievements in this role.
+    - Technologies used: HTML, CSS, etc. -->
+
+
+# 📫 How to Reach Me:
+
+- Email: [your-email@example.com](mailto:abdozayan12@gmail.com)
+- LinkedIn: [Your Name](https://www.linkedin.com/in/abdozayan/)
+
+# 📚 My Projects:
+
+<!-- - **Project Name**
+    - Description: Brief description of the project.
+    - Tech Stack: JavaScript, React, etc.
+    - [Live Demo](https://www.example.com)
+    - [Code Repository](https://github.com/yourusername/projectname)
+
+- **Project Name**
+    - Description: Brief description of the project.
+    - Tech Stack: HTML, CSS, etc.
+    - [Live Demo](https://www.example.com)
+    - [Code Repository](https://github.com/yourusername/projectname) -->
+
+    # 💻 Skills:
+
+## Programming Languages:
+- Html
+- JavaScript
+- Ruby
+
+## Frameworks:
+- React
+- Rails
+
+## Tools:
+- Git
+- VS Code
+
+<!-- # 💻 Tech Stack:
 <p align="center">
   
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) 
@@ -24,8 +65,15 @@ Full-Stack Developer from Egypt who is passionate about learning new things ever
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat-square&logo=ruby&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=flat-square&logo=ruby-on-rails&logoColor=white)
 
-</p>
+</p> -->
 
+# 🤝 Contributions:
+
+<!-- - **[Project Name](https://github.com/username/projectname)**
+    - Brief description of your contributions to this project.
+
+- **[Project Name](https://github.com/username/projectname)**
+    - Brief description of your contributions to this project. -->
 
 # 📊 GitHub Stats:
 <div align="center">
