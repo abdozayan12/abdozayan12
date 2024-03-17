@@ -29,22 +29,21 @@ Full-Stack Developer from Egypt who is passionate about learning new things ever
 
 # 📊 GitHub Stats:
 <div align="center">
-<p> <a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdozayan12&theme=default&hide_border=false&include_all_commits=false&count_private=false"/> </a>
-<p><a href=""><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdozayan12&theme=default&hide_border=false"/> </a></p>
-
-<p><a href=""><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdozayan12&theme=react&line_height=40&hide=css""/> </a></p>
-
-<img align="center" src="https://visitcount.itsvg.in/api?id=abdozayan12&icon=0&color=0"/> </a>
-</div> 
-# 📊 GitHub Stats:
-
-<div align="center">
+<!-- <p> <a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdozayan12&theme=default&hide_border=false&include_all_commits=false&count_private=false"/> </a> -->
 
 [![Abdo's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdozayan12&show_icons=true&theme=radical)](https://github.com/abdozayan/github-readme-stats)
 
+<p><a href=""><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdozayan12&theme=default&hide_border=false"/> </a></p>
+
+<!-- <p><a href=""><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdozayan12&theme=react&line_height=40&hide=css""/> </a></p> -->
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdozayan12&layout=compact&theme=radical)](https://github.com/abdozayan/github-readme-stats)
 
-</div>
+<img align="center" src="https://visitcount.itsvg.in/api?id=abdozayan12&icon=0&color=0"/> </a>
+</div> 
+<!-- # 📊 GitHub Stats: -->
+<!-- <div align="center"> -->
+<!-- </div> -->
 
 ### ✍️ Random Dev Quote
 
