@@ -79,15 +79,16 @@ I'm a Full-Stack Developer from Egypt, currently enrolled in the Microverse codi
 # 📊 GitHub Stats:
 <div align="center">
 <p> <a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdozayan12&theme=radical&hide_border=false&include_all_commits=false&count_private=false"/> </a>
-
+</p>
 
 <!-- [![Abdo's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdozayan12&show_icons=true&theme=radical)](https://github.com/abdozayan/github-readme-stats) -->
 
 <!-- <p><a href=""><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdozayan12&theme=radical&hide_border=false"/> </a></p> -->
 
+<p>
 <a href="https://github.com/abdozayan12">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdozayan12&theme=dark&background=0D1117&stroke=0000&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=58A6FF">
-</a>
+</a></p>
 
 <p><a href=""><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdozayan12&theme=react&line_height=40&hide=css""/> </a></p>
 
