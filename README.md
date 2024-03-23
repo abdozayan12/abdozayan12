@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 <p> <img src="./profileREADME.png" alt="abdozayan"> </p>
 
 # 💫 About Me:
