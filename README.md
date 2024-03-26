@@ -20,7 +20,7 @@ I'm a Full-Stack Developer from Egypt, currently enrolled in the Microverse codi
 - Email: [Mail](mailto:abdozayan12@gmail.com)
 - LinkedIn: [Abdelhakim](https://www.linkedin.com/in/abdozayan/)
 
-# 📚 My Projects:
+<!-- # 📚 My Projects: -->
 
 <!-- - **Project Name**
     - Description: Brief description of the project.
@@ -50,7 +50,7 @@ I'm a Full-Stack Developer from Egypt, currently enrolled in the Microverse codi
 - Git
 - VS Code
 
-<!-- # 💻 Tech Stack:
+# 💻 Tech Stack:
 <p align="center">
   
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) 
@@ -63,9 +63,9 @@ I'm a Full-Stack Developer from Egypt, currently enrolled in the Microverse codi
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat-square&logo=ruby&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=flat-square&logo=ruby-on-rails&logoColor=white)
 
-</p> -->
+</p>
 
-# 🤝 Contributions:
+<!-- # 🤝 Contributions: -->
 
 <!-- - **[Project Name](https://github.com/username/projectname)**
     - Brief description of your contributions to this project.
