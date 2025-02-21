@@ -4,41 +4,15 @@
 
 I'm a Full-Stack Developer from Egypt, currently enrolled in the Microverse coding bootcamp. I'm passionate about learning new things and always looking for new challenges. In my free time, I enjoy drinking tea and watching anime, movies, and series.
 
-<!-- # 🏢 Work Experience:
-
-- **Software Developer, Company Name** - *Month Year to Month Year*
-    - Brief description of your responsibilities and achievements in this role.
-    - Technologies used: JavaScript, React, etc.
-
-- **Junior Developer, Company Name** - *Month Year to Month Year*
-    - Brief description of your responsibilities and achievements in this role.
-    - Technologies used: HTML, CSS, etc. -->
-
-
 # 📫 How to Reach Me:
 
 - Email: [Mail](mailto:abdozayan12@gmail.com)
 - LinkedIn: [Abdelhakim](https://www.linkedin.com/in/abdozayan/)
 
-<!-- # 📚 My Projects: -->
-
-<!-- - **Project Name**
-    - Description: Brief description of the project.
-    - Tech Stack: JavaScript, React, etc.
-    - [Live Demo](https://www.example.com)
-    - [Code Repository](https://github.com/yourusername/projectname)
-
-- **Project Name**
-    - Description: Brief description of the project.
-    - Tech Stack: HTML, CSS, etc.
-    - [Live Demo](https://www.example.com)
-    - [Code Repository](https://github.com/yourusername/projectname) -->
-
-    
 # 💻 Skills:
 
 ## Programming Languages:
-- Html
+- HTML
 - JavaScript
 - Ruby
 
@@ -70,18 +44,7 @@ I'm a Full-Stack Developer from Egypt, currently enrolled in the Microverse codi
 <p> <a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdozayan12&theme=radical&hide_border=false&include_all_commits=false&count_private=false"/> </a>
 </p>
 
-[![Abdo's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdozayan12&show_icons=true&theme=radical)](https://github.com/abdozayan/github-readme-stats)
-
-<p><a href=""><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdozayan12&theme=radical&hide_border=false"/> </a></p>
-
-<!-- <p>
-<a href="https://github.com/abdozayan12">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdozayan12&theme=dark&background=0D1117&stroke=0000&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=58A6FF">
-</a></p> -->
-
 <p><a href=""><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdozayan12&theme=react&line_height=40&hide=css"/> </a></p>
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdozayan12&layout=compact&theme=radical)](https://github.com/abdozayan/github-readme-stats) -->
 
 <div align="center">
 <a href="https://github.com/abdozayan12" target="_blank">
