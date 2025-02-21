@@ -46,7 +46,7 @@ I'm a Full-Stack Developer from Egypt, currently enrolled in the Microverse codi
 
 <p><a href=""><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdozayan12&theme=react&line_height=40&hide=css"/> </a></p>
 
-<p><a href=""><img align="center" src="https://github-profile-trophy.vercel.app/?username=abdozayan12&theme=radical"/> </a></p>
+<p><a href=""><img align="center" src="https://streak-stats.demolab.com/?user=abdozayan12&theme=radical&hide_border=false"/> </a></p>
 
 <div align="center">
 <a href="https://github.com/abdozayan12" target="_blank">
