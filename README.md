@@ -40,23 +40,28 @@ I'm a Full-Stack Developer from Egypt, currently enrolled in the Microverse codi
 </p>
 
 # 📊 GitHub Stats:
-<div align="center">
-<p> <a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdozayan12&theme=radical&hide_border=false&include_all_commits=false&count_private=false"/> </a>
+<p> 
+  <a href=""> 
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdozayan12&theme=radical&hide_border=false&include_all_commits=true&count_private=true"/> 
+  </a>
 </p>
 
-<p><a href=""><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdozayan12&theme=react&line_height=40&hide=css"/> </a></p>
+<p>
+  <a href="">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdozayan12&theme=react&line_height=40&hide=css"/> 
+  </a>
+</p>
 
-<p><a href=""><img align="center" src="https://github-readme-streak-stats.vercel.app?user=abdozayan12&theme=radical&hide_border=false"/> </a></p>
+<p>
+  <a href="">
+    <img align="center" src="https://github-readme-streak-stats.vercel.app?user=abdozayan12&theme=radical&hide_border=false"/> 
+  </a>
+</p>
 
-<div align="center">
-<a href="https://github.com/abdozayan12" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 10px;" />
-</a>
-<a href="https://www.linkedin.com/in/abdozayan/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 10px;" />
-</a>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=abdozayan12&label=Profile%20views&color=0e75b6&style=flat" alt="abdozayan" /> </p>
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdozayan12&theme=radical" />
+</p>
+
     
 ### ✍️ Random Dev Quote
 
