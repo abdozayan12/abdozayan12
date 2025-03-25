@@ -52,11 +52,18 @@ I'm a Full-Stack Developer from Egypt, currently enrolled in the Microverse codi
   </a>
 </p>
 
-<p>
+<!-- <p>
   <a href="">
     <img align="center" src="https://github-readme-streak-stats.vercel.app?user=abdozayan12&theme=radical&hide_border=false"/> 
   </a>
+</p> -->
+
+<p>
+  <a href="">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=abdozayan12&theme=radical&hide_border=false"/> 
+  </a>
 </p>
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdozayan12&theme=radical" />
