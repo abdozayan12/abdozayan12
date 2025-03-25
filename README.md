@@ -41,11 +41,18 @@ I'm a Full-Stack Developer from Egypt, currently enrolled in the Microverse codi
 
 # 📊 GitHub Stats:
 <div align="center">
-<p> 
+<!-- <p> 
   <a href=""> 
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdozayan12&theme=radical&hide_border=false&include_all_commits=true&count_private=true"/> 
   </a>
+</p> -->
+
+<p> 
+  <a href=""> 
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdozayan12&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&custom_title=My%20GitHub%20Stats"/> 
+  </a>
 </p>
+
 
 <p>
   <a href="">
