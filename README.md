@@ -76,10 +76,11 @@ I'm a Full-Stack Developer from Egypt, currently enrolled in the Microverse codi
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdozayan12&theme=radical" />
 </p>
-</div>
+
     
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
+</div>
