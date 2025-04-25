@@ -14,11 +14,11 @@ I'm a Full-Stack Developer from Egypt, currently enrolled in the Microverse codi
 ## Programming Languages:
 - HTML
 - JavaScript
-- Ruby
+
 
 ## Frameworks:
 - React
-- Rails
+
 
 ## Tools:
 - Git
@@ -34,8 +34,6 @@ I'm a Full-Stack Developer from Egypt, currently enrolled in the Microverse codi
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat-square&logo=ruby&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=flat-square&logo=ruby-on-rails&logoColor=white)
 
 </p>
 
